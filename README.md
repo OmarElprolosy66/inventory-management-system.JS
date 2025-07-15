@@ -22,13 +22,29 @@ Includes JWT authentication, validation, modular architecture, and integration/u
 
 ## Features
 
-- **ESM (import/export) support**
-- **JWT authentication & role-based authorization**
-- **Express-validator for request validation**
-- **Modular services, controllers, and models**
-- **Rate limiting, security headers, logging**
-- **Integration & unit tests with Vitest and Supertest**
-- **Swagger/OpenAPI documentation**
+- **Easy Inventory Management:**  
+  Add, update, and track products, categories, suppliers, and purchases in one place.
+
+- **User Roles & Security:**  
+  Secure login with JWT authentication and role-based access (admin, manager, staff).
+
+- **Accurate Stock Tracking:**  
+  Automatically updates product quantities with every purchase or sale.
+
+- **Supplier & Purchase Records:**  
+  Manage supplier details and keep a history of all purchase transactions.
+
+- **Validation & Error Handling:**  
+  Prevents bad data entry and guides users with clear error messages.
+
+- **Fast & Reliable API:**  
+  Built with Express and MongoDB for quick response times and robust data storage.
+
+- **API Documentation:**  
+  Interactive Swagger docs for easy integration with other apps or frontends.
+
+- **Automated Testing:**  
+  Ensures reliability and stability with unit and integration tests.
 
 ---
 
