@@ -4,7 +4,7 @@ import { config }   from "dotenv"; config();
 
 connectDB();
 
-const port = process.env.PORT || 50000;
+const port = process.env.PORT || 3000;
 
 app.listen(port, () => {
     console.log(`app running on: http://localhost:${port}`);
