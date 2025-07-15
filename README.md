@@ -52,7 +52,7 @@ Includes JWT authentication, validation, modular architecture, and integration/u
 
 1. **Clone the repo**
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/OmarElprolosy66/inventory-management-system.JS.git
    cd node_ims
    ```
 
